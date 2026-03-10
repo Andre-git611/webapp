@@ -4,6 +4,8 @@
     "transpileOnly": true
   },
   "compilerOptions": {
+    "ignoreDeprecations": "6.0",
+    "rootDir": "./src",
     "outDir": "./dist",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
